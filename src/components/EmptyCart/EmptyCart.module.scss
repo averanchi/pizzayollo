@@ -1,0 +1,27 @@
+.bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.root {
+  text-align: center;
+}
+
+.info {
+  text-align: center;
+  font-size: 30px;
+}
+
+.image {
+  width: 40%;
+  margin: 30px 0;
+}
